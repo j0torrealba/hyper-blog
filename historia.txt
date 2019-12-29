@@ -5,3 +5,5 @@ Soy Juan Torrealba, tengo 29 años, naci en Venezuela.
 Practica curso de Git.
 
 Me gusta la buena cocina y el fútbol (Verlo y jugarlo).
+
+Desarrollar Frontend en proceso!
